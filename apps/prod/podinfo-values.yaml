@@ -9,4 +9,4 @@ spec:
   values:
     ui:
       color: "#34577c"
-      message: "Hello from prod lol!"
+      message: "Hello from prod!"
