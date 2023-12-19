@@ -4,6 +4,7 @@ Flux demo repository
 
 ## Prerequisites
 
+* [Kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 * [MiniKube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 * [Flux](https://docs.fluxcd.io/en/latest/tutorials/get-started.html)
 * [Kustomize](https://kubernetes-sigs.github.io/kustomize/installation/)
